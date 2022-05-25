@@ -1,0 +1,31 @@
+<resources>
+	<string name="app_name">PCCreator</string>
+	<string name="Build1">PC GAMA ALTA</string>
+	<string name="Build2">PC GAMA MEDIA</string>
+	<string name="Build3">PC GAMA BAJA</string>
+	<string name="Precio1">$30000</string>
+	<string name="Precio2">$20000</string>
+	<string name="Precio3">$10000</string>
+	<string name="select_your_component">Select your component</string>
+	<string name="go_back">Go to previous view</string>
+	<string name="juego1">Elden Ring</string>
+	<string name="juego2">Doom Eternal</string>
+	<string name="juego3">Valorant</string>
+	<string name="juego4">Red Dead Redemption 2</string>
+	<string name="juego5">Rainbow Six Siege</string>
+	<string name="juego6">league of Legends</string>
+	<string name="juego7">Counter Strike GO</string>
+	<string name="juego8">Fornait</string>
+	<string name="juego9">Grand Theft Auto 5</string>
+	<string name="juego10">Call Of Duty Advance</string>
+	<string name="Software1">Blender Studio</string>
+	<string name="Software2">Solid Works</string>
+	<string name="Software3">Android Studio</string>
+	<string name="Software4">3DMark</string>
+	<string name="Software5">Cinebench</string>
+	<string name="login_email">Correo electrónico</string>
+	<string name="login_password">Contraseña</string>
+	<string name="login_forgot_password">¿Olvidaste la contraseña?</string>
+	<string name="login_login_button">INICIAR SESIÓN</string>
+    <string name="cargando">Cargando</string>
+</resources>

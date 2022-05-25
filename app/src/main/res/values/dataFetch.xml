@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cpu_1_name">Intel Core i5-9600K</string>
+    <string name="cpu_1_price">4300</string>
+
+    <string name="cpu_2_name">Intel Xeon E3-1230</string>
+    <string name="cpu_2_price">2012</string>
+
+    <string name="cpu_3_name">AMD Ryzen 5 5600X</string>
+    <string name="cpu_3_price">9201</string>
+
+    <string name="cpu_4_name">AMD Athlon 200GE</string>
+    <string name="cpu_4_price">5012</string>
+
+    <string name="cpu_5_name">AMD Ryzen Threadripper 3990X</string>
+    <string name="cpu_5_price">5342</string>
+
+    <string name="cpu_6_name">Intel Celeron G5925</string>
+    <string name="cpu_6_price">1819</string>
+
+    <string name="mobo_1_name">Gigabyte GA-A320M</string>
+    <string name="mobo_1_price">1142</string>
+
+    <string name="mobo_2_name">Asus Motherboard Intel Z590</string>
+    <string name="mobo_2_price">5699</string>
+
+    <string name="mobo_3_name">Gigabyte B450 AORUS</string>
+    <string name="mobo_3_price">2299</string>
+
+    <string name="mobo_4_name">Gigabyte B560M DS3H</string>
+    <string name="mobo_4_price">3051</string>
+
+    <string name="mobo_5_name">Asus ROG Strix Z690-E</string>
+    <string name="mobo_5_price">11999</string>
+
+    <string name="mobo_6_name">Asus AMD B550</string>
+    <string name="mobo_6_price">9984</string>
+
+    <string name="gpu_1_name">GTX 1050 Ti</string>
+    <string name="gpu_1_price">6832</string>
+
+    <string name="gpu_2_name">GTX 1650 Ti</string>
+    <string name="gpu_2_price">8499</string>
+
+    <string name="gpu_3_name">GTX 1660 Ti</string>
+    <string name="gpu_3_price">13000</string>
+
+    <string name="gpu_4_name">RTX 2060 Super</string>
+    <string name="gpu_4_price">32000</string>
+
+    <string name="gpu_5_name">RTX 3050 Gaming</string>
+    <string name="gpu_5_price">13444</string>
+
+    <string name="gpu_6_name">RTX 3060 Twin Edge</string>
+    <string name="gpu_6_price">15890</string>
+
+    <string name="storage_1_name">HDD 500 gb</string>
+    <string name="storage_1_price">514</string>
+
+    <string name="storage_2_name">HDD 1 tb</string>
+    <string name="storage_2_price">930</string>
+
+    <string name="storage_3_name">HDD 2 tb</string>
+    <string name="storage_3_price">1200</string>
+
+    <string name="storage_4_name">SSD 500 gb</string>
+    <string name="storage_4_price">1240</string>
+
+    <string name="storage_5_name">SSD 1 tb</string>
+    <string name="storage_5_price">2275</string>
+
+    <string name="storage_6_name">SSD 2 tb</string>
+    <string name="storage_6_price">4999</string>
+
+    <string name="power_1_name">500 w</string>
+    <string name="power_1_price">1100</string>
+
+    <string name="power_2_name">600 w</string>
+    <string name="power_2_price">1173</string>
+
+    <string name="power_3_name">650 w</string>
+    <string name="power_3_price">1199</string>
+
+    <string name="power_4_name">700 w</string>
+    <string name="power_4_price">1200</string>
+
+    <string name="power_5_name">750 w</string>
+    <string name="power_5_price">1799</string>
+
+    <string name="power_6_name">850 w</string>
+    <string name="power_6_price">2099</string>
+
+    <string name="ram_1_name">4 GB RAM</string>
+    <string name="ram_1_price">569</string>
+
+    <string name="ram_2_name">4 GB RAM Dual</string>
+    <string name="ram_2_price">739</string>
+
+    <string name="ram_3_name">8 GB RAM</string>
+    <string name="ram_3_price">849</string>
+
+    <string name="ram_4_name">8 GB RAM Dual</string>
+    <string name="ram_4_price">2007</string>
+
+    <string name="ram_5_name">16 GB RAM</string>
+    <string name="ram_5_price">1608</string>
+
+    <string name="ram_6_name">16 GB RAM Dual</string>
+    <string name="ram_6_price">3168</string>
+
+    <string name="case_1_name">OCELOT GAMING Gabinete</string>
+    <string name="case_1_price">699</string>
+
+    <string name="case_2_name">MasterBox MCB-Q300L</string>
+    <string name="case_2_price">1344</string>
+
+    <string name="case_3_name">Corsair 4000D</string>
+    <string name="case_3_price">2348</string>
+
+    <string name="case_4_name">Cooler Master MasterBox</string>
+    <string name="case_4_price">2852</string>
+
+    <string name="case_5_name">Cooler Master MasterCase</string>
+    <string name="case_5_price">4397</string>
+
+    <string name="case_6_name">Thermaltake Core P3</string>
+    <string name="case_6_price">5399</string>
+
+    <string name="fan_1_name">KingWin Bearing Case Fan</string>
+    <string name="fan_1_price">179</string>
+
+    <string name="fan_2_name">Ocelot Gaming OGF02</string>
+    <string name="fan_2_price">127</string>
+
+    <string name="fan_3_name">ARTIC BioniX F120</string>
+    <string name="fan_3_price">305</string>
+
+    <string name="fan_4_name">NZXT RF-AP140</string>
+    <string name="fan_4_price">399</string>
+
+    <string name="fan_5_name">YEYIAN Ventilator Gaming</string>
+    <string name="fan_5_price">279</string>
+
+    <string name="fan_6_name">Cooler Master MasterFan</string>
+    <string name="fan_6_price">5399</string>
+
+</resources>

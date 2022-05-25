@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListComponents">
+
+    <ImageView
+        android:id="@+id/iconarrow"
+        android:layout_width="38dp"
+        android:layout_height="35dp"
+        android:layout_margin="15dp"
+
+        android:contentDescription="@string/go_back"
+        app:layout_constraintBottom_toTopOf="@id/select_your_component"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_arrow_back"
+
+        />
+
+
+    <TextView
+        android:id="@+id/select_your_component"
+        android:text="@string/select_your_component"
+        android:contentDescription="@string/select_your_component"
+
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/iconarrow"
+
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list_of_items"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+
+
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="30dp"
+
+        android:scrollbars="vertical"
+        app:layoutManager="LinearLayoutManager"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintTop_toBottomOf="@id/select_your_component"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
